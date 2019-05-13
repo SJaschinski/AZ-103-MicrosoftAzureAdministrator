@@ -1,0 +1,17 @@
+# Check Azure CLI installation
+az --version
+
+# Login to Azure account
+az login
+
+# Manage Azure account
+az account list --output table
+az account set --subscription "Azure MSDN Trial"
+
+# Manage resource group
+az group create --name Test --location westeurope
+az group list
+az group list --output table
+az group list --query "[?name == 'Test']"
+az group delete --name Test
+az group list --query "[?name == 'Test']"
