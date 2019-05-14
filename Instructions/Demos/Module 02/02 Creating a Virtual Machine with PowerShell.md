@@ -41,7 +41,7 @@ New-AzVm -ResourceGroupName "myResourceGroup" -Name "myVM" -Location "East US" -
 1.  Retrieve the public IP address of the machine.
 
 ``` posh
-Get-AzPublicIpAddress -ResourceGroupName "myResourceGroup" | Select "IpAd­dress"
+Get-AzPublicIpAddress -ResourceGroupName "myResourceGroup" | Select-Object "IpAddress"
 ```
 
 2.  Create an RDP session from your local machine. Replace the IP address with the public IP address of your VM. This command runs from a cmd window.
