@@ -25,18 +25,3 @@ Create a remote desktop connection to the virtual machine. These directions tell
 3.  Open the downloaded RDP file and select **Connect** when prompted.
 4.  In the **Windows Security** window, select **More choices** and then **Use a different account**. Type the username as localhost\\username, enter password you created for the virtual machine, and then select **OK**.
 5.  You may receive a certificate warning during the sign-in process. Select **Yes** or **Continue** to create the connection.
-
-### Install web server 
-To see your VM in action, install the IIS web server. Open a PowerShell prompt on the VM and run the following command:
-
-```posh
-Install-WindowsFeature -name Web-Server -IncludeManagementTools
-```
-
-When done, close the RDP connection to the VM.
-
-### View the IIS welcome page
-In the portal, select the VM and in the overview of the VM, use the **Click to copy** button to the right of the public IP address to copy it and paste it into a browser tab. The default IIS welcome page will open.
-
-### Clean up resources 
-When no longer needed, you can delete the resource group, virtual machine, and all related resourc­es. To do so, select the resource group for the virtual machine, select **Delete**, then confirm the name of the resource group to delete.
