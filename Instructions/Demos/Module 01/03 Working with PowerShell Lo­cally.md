@@ -39,7 +39,9 @@ Install-Module -Name Az -AllowClobber
 1.  Login to Azure 
 
 ``` posh
-Login-AzAccount
+Connect-AzAccount
+# alias Login-AzAccount
+# alias Add-AzAccount
 ```
 
 2.  When prompted provide your credentials
