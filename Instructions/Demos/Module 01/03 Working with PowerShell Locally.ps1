@@ -1,6 +1,7 @@
 ﻿# Login to Azure
 Connect-AzAccount
 # alias Login-AzAccount
+# alias Add-AzAccount
 
 # List Azure subscriptions in account
 Get-AzSubscription
