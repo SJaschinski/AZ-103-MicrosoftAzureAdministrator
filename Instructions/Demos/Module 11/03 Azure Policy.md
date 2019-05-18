@@ -1,9 +1,3 @@
----
-demo:
-    title: 'Demonstration: Azure Policy'
-    module: 'Module 11: Governance and Compliance'
----
-
 # Module 11 Demonstration: Azure Policy 
 ======================================
 

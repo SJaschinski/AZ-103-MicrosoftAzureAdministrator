@@ -1,9 +1,3 @@
----
-demo:
-    title: 'Demonstration: Creating Virtual Networks'
-    module: 'Module 04: Virtual Networking'
----
-
 # Module 04 Demonstration: Creating Virtual Networks 
 
 In this demonstration, you will create virtual networks.

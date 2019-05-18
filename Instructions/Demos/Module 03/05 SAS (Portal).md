@@ -1,9 +1,3 @@
----
-demo:
-    title: 'Demonstration: SAS (Portal)'
-    module: 'Module 03: Azure Storage'
----
-
 # Module 03 Demonstration: SAS (Portal) 
 
 In this demonstration, we will create a shared access signature.

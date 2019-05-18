@@ -1,9 +1,3 @@
----
-demo:
-    title: 'Demonstration: Alerts'
-    module: 'Module 06: Monitoring'
----
-
 # Module 06 Demonstration: Alerts 
 
 In this demonstration, we will create an alert rule.

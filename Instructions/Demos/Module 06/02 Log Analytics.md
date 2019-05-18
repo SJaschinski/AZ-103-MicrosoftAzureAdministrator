@@ -1,9 +1,3 @@
----
-demo:
-    title: 'Demonstration: Log Analytics'
-    module: 'Module 06: Monitoring'
----
-
 # Module 06 Demonstration: Log Analytics 
 
 In this demonstration, you will work with the Log Analytics query language.

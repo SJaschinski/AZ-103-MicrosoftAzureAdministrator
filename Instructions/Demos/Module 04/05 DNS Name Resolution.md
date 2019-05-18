@@ -1,9 +1,3 @@
----
-demo:
-    title: 'Demonstration: DNS Name Resolution'
-    module: 'Module 04: Virtual Networking'
----
-
 # Module 04 Demonstration: DNS Name Resolution 
 
 In this demonstration, you will explore Azure DNS.

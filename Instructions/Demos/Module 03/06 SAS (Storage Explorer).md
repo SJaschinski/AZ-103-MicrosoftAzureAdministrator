@@ -1,9 +1,3 @@
----
-demo:
-    title: 'Demonstration: SAS (Storage Explorer)'
-    module: 'Module 03: Azure Storage'
----
-
 # Module 03 Demonstration: SAS (Storage Explorer) 
 
 In this demonstration you will attach a storage account by using a Shared Access Signature.

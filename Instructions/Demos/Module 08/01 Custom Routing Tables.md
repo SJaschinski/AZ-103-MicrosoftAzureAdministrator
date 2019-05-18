@@ -1,9 +1,3 @@
----
-demo:
-    title: 'Demonstration: Custom Routing Tables'
-    module: 'Module 08: Network Traffic Management'
----
-
 # Module 08 Demonstration: Custom Routing Tables 
 
 In this demonstration, you will learn how to create a route table, define a custom route, and associate the route with a subnet.

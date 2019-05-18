@@ -1,9 +1,3 @@
----
-demo:
-    title: 'Demonstration: Storage Explorer'
-    module: 'Module 03: Azure Storage'
----
-
 # Module 03 Demonstration: Storage Explorer 
 
 > **Note**: If you have an older version of the Storage Explorer, be sure to upgrade. These steps use version 1.6.2.

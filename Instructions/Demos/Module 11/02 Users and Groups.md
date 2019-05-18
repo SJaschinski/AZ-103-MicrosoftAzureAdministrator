@@ -1,9 +1,3 @@
----
-demo:
-    title: 'Demonstration: Users and Groups'
-    module: 'Module 11: Governance and Compliance'
----
-
 # Module 11 Demonstration: Users and Groups 
 
 In this demonstration, you will explore Active Directory users and groups.

@@ -1,9 +1,3 @@
----
-demo:
-    title: 'Demonstration: Creating a Virtual Machine with PowerShell'
-    module: 'Module 02: Azure Virtual Machines'
----
-
 # Module 02 Demonstration: Creating a Virtual Machine with PowerShell 
 
 In this demonstration, we will create a virtual machine using PowerShell.

@@ -1,10 +1,4 @@
----
-demo:
-    title: 'Demonstration - QuickStart Templates'
-    module: 'Module 01: Azure Administration'
----
-
-# Demonstration - QuickStart Templates
+# Module 01 Demonstration: QuickStart Templates
 In this demonstration, you will explore QuickStart templates.
 
 ### Explore the gallery 

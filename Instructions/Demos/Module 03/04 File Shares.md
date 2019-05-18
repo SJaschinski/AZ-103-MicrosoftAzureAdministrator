@@ -1,9 +1,3 @@
----
-demo:
-    title: 'Demonstration: File Shares'
-    module: 'Module 03: Azure Storage'
----
-
 # Module 03 Demonstration: File Shares 
 
 In this demonstration, we will work with files shares and snapshots.

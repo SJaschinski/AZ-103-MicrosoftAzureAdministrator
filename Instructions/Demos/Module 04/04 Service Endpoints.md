@@ -1,9 +1,3 @@
----
-demo:
-    title: 'Demonstration: Service Endpoints'
-    module: 'Module 04: Virtual Networking'
----
-
 # Module 04 Demonstration: Service Endpoints 
 
 In this demonstration, you will work with virtual network endpoints.

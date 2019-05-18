@@ -1,9 +1,3 @@
----
-demo:
-    title: 'Demonstration: Backup Azure File Shares'
-    module: 'Module 07: Data Protection'
----
-
 # Module 07 Demonstration: Backup Azure File Shares 
 
 In this demonstration, we will explore backing up a file share in the Azure portal.

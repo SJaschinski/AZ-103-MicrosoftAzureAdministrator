@@ -1,9 +1,3 @@
----
-demo:
-    title: 'Demonstration: Manage IP Addresses'
-    module: 'Module 04: Virtual Networking'
----
-
 # Module 04 Demonstration: Manage IP Addresses 
 
 In this demonstration, you will learn how to retrieve static private IP address information for a network interface. You will run PowerShell commands to view the static private IP address information for the VM that was created in the previous demonstration. You will also remove the static private IP address that was added to the VM.

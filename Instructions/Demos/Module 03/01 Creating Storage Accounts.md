@@ -1,9 +1,3 @@
----
-demo:
-    title: 'Demonstration: Creating Storage Accounts'
-    module: 'Module 03: Azure Storage'
----
-
 # Module 03 Demonstration: Creating Storage Accounts 
 In this demonstration, we will look at creating storage accounts.
 

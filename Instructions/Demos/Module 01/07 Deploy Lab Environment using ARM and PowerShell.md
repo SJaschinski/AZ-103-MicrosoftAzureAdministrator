@@ -1,10 +1,4 @@
----
-alternative demo:
-    title: 'Demonstration - Deploy Lab Environment using ARM and PowerShell'
-    module: 'Module 01: Azure Administration'
----
-
-# Demonstration - Deploy Lab Environment using ARM and PowerShell 
+# Module 01 Demonstration: Deploy Lab Environment using ARM and PowerShell 
 In this demonstration, we will create the lab environment VM for this course using PowerShell and Resource Manager templates.
 
 ### Connect to your subscription 

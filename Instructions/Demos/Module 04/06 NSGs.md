@@ -1,9 +1,3 @@
----
-demo:
-    title: 'Demonstration: NSGs'
-    module: 'Module 04: Virtual Networking'
----
-
 # Module 04 Demonstration: NSGs 
 
 In this demonstration, you will explore NSGs and service endpoints.

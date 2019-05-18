@@ -1,10 +1,4 @@
----
-demo:
-    title: 'Demonstration – Working with the CLI'
-    module: 'Module 01: Azure Administration'
----
-
-# Demonstration – Working with the CLI 
+# Module 01 Demonstration: Working with the CLI 
 
 In this demonstration, you will install and use the CLI to create resources.
 

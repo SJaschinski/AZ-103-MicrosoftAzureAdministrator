@@ -1,9 +1,3 @@
----
-demo:
-    title: 'Demonstration: AzCopy'
-    module: 'Module 12: Data Services'
----
-
 # Module 12 Demonstration: AzCopy 
 
 In this demonstration, we will explore AzCopy.

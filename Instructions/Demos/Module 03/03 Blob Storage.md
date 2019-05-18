@@ -1,9 +1,3 @@
----
-demo:
-    title: 'Demonstration: Blob Storage'
-    module: 'Module 03: Azure Storage'
----
-
 # Module 03 Demonstration: Blob Storage 
 In this demonstration, you will explore blob storage.
 

@@ -1,9 +1,3 @@
----
-demo:
-    title: 'Demonstration: VNet-to-VNet Connections'
-    module: 'Module 05: Intersite Connectivity'
----
-
 # Module 05 Demonstration: VNet-to-VNet Connections 
 
 > **Note**: This demonstration works best with two virtual networks with subnets. All the steps are in the portal.

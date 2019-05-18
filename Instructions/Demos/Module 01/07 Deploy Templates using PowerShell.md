@@ -1,10 +1,4 @@
----
-demo:
-    title: 'Demonstration - Deploy Templates using PowerShell'
-    module: 'Module 01: Azure Administration'
----
-
-# Demonstration - Deploy Templates using PowerShell 
+# Module 01 Demonstration: Deploy Templates using PowerShell 
 In this demonstration, we will create new Azure resources using PowerShell and Resource Manager templates.
 
 ### Connect to your subscription 

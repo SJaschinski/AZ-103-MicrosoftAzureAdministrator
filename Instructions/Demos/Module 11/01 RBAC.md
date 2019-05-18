@@ -1,9 +1,3 @@
----
-demo:
-    title: 'Demonstration: RBAC'
-    module: 'Module 11: Governance and Compliance'
----
-
 # Module 11 Demonstration: RBAC 
 
 In this demonstration, you will learn about role assignments.

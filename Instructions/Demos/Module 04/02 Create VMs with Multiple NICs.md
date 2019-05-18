@@ -1,9 +1,3 @@
----
-demo:
-    title: 'Demonstration: Create VMs with Multiple NICs'
-    module: 'Module 04: Virtual Networking'
----
-
 # Module 04 Demonstration: Create VMs with Multiple NICs 
 
 In this demonstration, you will learn how to create and configure multiple NICs and then attach those NICs to a VM. You can replace example parameter names with your own values if you prefer.

@@ -1,9 +1,3 @@
----
-demo:
-    title: 'Demonstration: Backup Files and Folders'
-    module: 'Module 07: Data Protection'
----
-
 # Module 07 Demonstration: Backup Files and Folders 
 
 In this demonstration, we will step through the process to backup and restore files and folders from Windows to Azure.
