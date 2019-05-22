@@ -1,5 +1,4 @@
 # Module 11 Demonstration: Azure Policy 
-======================================
 
 In this demonstration, we will create a policy.
 
