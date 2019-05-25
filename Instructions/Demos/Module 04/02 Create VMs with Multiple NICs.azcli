@@ -1,0 +1,40 @@
+az login --use-device-code
+
+# az network vnet create \
+#     --resource-group Module04 \
+#     --name azVnet \
+#     --address-prefix 10.0.0.0/16 \
+#     --subnet-name mySubnetFrontEnd \
+#     --subnet-prefix 10.0.1.0/24
+az network vnet create --resource-group Module04 --name azVnet --address-prefix 10.0.0.0/16 --subnet-name mySubnetFrontEnd --subnet-prefix 10.0.1.0/24
+
+# az network vnet subnet create \
+#     --resource-group Module04 \
+#     --vnet-name azVnet \
+#     --name mySubnetBackEnd \
+#     --address-prefix 10.0.2.0/24
+az network vnet subnet create --resource-group Module04 --vnet-name azVnet --name mySubnetBackEnd --address-prefix 10.0.2.0/24
+
+# az network nsg create \
+#     --resource-group Module04 \
+#     --name myNetworkSecurityGroup
+az network nsg create --resource-group Module04 --name myNetworkSecurityGroup
+
+# az network nic create \
+#     --resource-group Module04 \
+#     --name myNic1 \
+#     --vnet-name azVnet \
+#     --subnet mySubnetFrontEnd \
+#     --network-security-group myNetworkSecurityGroup
+az network nic create --resource-group Module04 --name myNic1 --vnet-name azVnet --subnet mySubnetFrontEnd --network-security-group myNetworkSecurityGroup
+az network nic create --resource-group Module04 --name myNic2 --vnet-name azVnet --subnet mySubnetBackEnd --network-security-group myNetworkSecurityGroup
+
+# az vm create \
+#     --resource-group Module04 \
+#     --name myVM \
+#     --image UbuntuLTS \
+#     --size Standard_DS3_v2 \
+#     --admin-username azureuser \
+#     --generate-ssh-keys \
+#     --nics myNic1 myNic2
+az vm create --resource-group Module04 --name myVM --image UbuntuLTS --size Standard_DS1_v2 --admin-username azureuser --generate-ssh-keys --nics myNic1 myNic2

@@ -1,10 +1,4 @@
----
-demo:
-    title: 'Demonstration - Resource Groups'
-    module: 'Module 01: Azure Administration'
----
-
-# Demonstration - Resource Groups
+# Module 01 Demonstration: Resource Groups
 In this demonstration, we will create and delete resource locks.
 
 > **Note**: Only the roles Owner and User Access Administrator can manage the locks on the resources. 
@@ -35,7 +29,7 @@ Get-AzResourceLock
 4. Delete the resource lock and confirm your action.
 
 ``` posh
-Remove-AzResourceLock -LockName <Name>
+Remove-AzResourceLock -LockName <Name> -ResourceGroupName <GroupName>
 ```
 
 5. Verify the resource lock has been removed.

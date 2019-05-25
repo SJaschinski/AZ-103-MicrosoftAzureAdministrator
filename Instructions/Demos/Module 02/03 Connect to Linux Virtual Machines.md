@@ -1,9 +1,3 @@
----
-demo:
-    title: 'Demonstration: Connect to Linux Virtual Ma­chines'
-    module: 'Module 02: Azure Virtual Machines'
----
-
 # Module 02 Demonstration: Connect to Linux Virtual Ma­chines 
 
 In this demonstration, we will create a Linux machine and access the machine with SSL.

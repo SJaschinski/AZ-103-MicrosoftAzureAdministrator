@@ -1,10 +1,4 @@
----
-demo:
-    title: 'Demonstration - Cloud Shell'
-    module: 'Module 01: Azure Administration'
----
-
-# Demonstration - Cloud Shell
+# Module 01 Demonstration: Cloud Shell
 
 In this demonstration, we will experiment with the Cloud Shell.
 

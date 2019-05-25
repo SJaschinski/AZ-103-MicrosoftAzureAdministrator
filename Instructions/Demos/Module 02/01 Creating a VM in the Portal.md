@@ -1,9 +1,3 @@
----
-demo:
-    title: 'Demonstration: Creating a VM in the Portal'
-    module: 'Module 02: Azure Virtual Machines'
----
-
 # Module 02 Demonstration: Creating a VM in the Portal 
 In this demonstration, we will create and access a Windows virtual machine in the portal.
 

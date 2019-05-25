@@ -1,0 +1,11 @@
+# Login to Azure account
+az login --use-device-code
+
+# Get available locations
+az account list-locations --query "[].{Region:name}" --out table
+
+# Create resource group
+az group create --name Module03 --location westeurope 
+
+# Create
+az storage account create --name sj190519cli --resource-group Module03 --location westeurope --sku Standard_LRS --kind StorageV2

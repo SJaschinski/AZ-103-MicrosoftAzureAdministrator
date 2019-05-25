@@ -1,10 +1,4 @@
----
-demo:
-    title: 'Demonstration - Working with PowerShell Lo­cally'
-    module: 'Module 01: Azure Administration'
----
-
-# Demonstration - Working with PowerShell Lo­cally 
+# Module 01 Demonstration: Working with PowerShell Lo­cally 
 
 In this demonstration, we will install Azure Az PowerShell module. The
 Az module is available from a global repository called the PowerShell
