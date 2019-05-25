@@ -10,4 +10,4 @@ New-AzResourceGroup -Name LabEnvRG -Location 'West Europe'
 # Create lock for lab environment to prevent deletion
 New-AzResourceLock -LockName LabEnvLCK -LockLevel CanNotDelete -ResourceGroupName LabEnvRG
 Get-AzResourceLock
-# Remove-AzResourceLock -LockName LabEnvLCK
+# Remove-AzResourceLock -LockName LabEnvLCK -ResourceGroupName LabEnvRG

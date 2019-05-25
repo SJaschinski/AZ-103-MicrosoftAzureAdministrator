@@ -23,7 +23,7 @@ In this demonstration, you will explore Azure DNS.
 3. Notice how the required information changes as you change record types.
 4. Change the **Type** to **A** and enter these values.
     - **Name**: *ARecord*
-    - **IP Address**: *1.2.3.4\**
+    - **IP Address**: *1.2.3.4*
 5. Notice you can add other records.
 6. Click **OK** to save your record.
 7. **Refresh** the page to see the new record set.

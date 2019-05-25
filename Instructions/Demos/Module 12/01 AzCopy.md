@@ -13,7 +13,7 @@ In this demonstration, we will explore AzCopy.
 2. View the help.
 
 ``` bat
-azcopy /?
+azcopy --help
 ```
 
 3. Scroll to the top of the Help information and read about the **Common options**, like: source, destina­tion, source key, and destination key.

@@ -29,7 +29,7 @@ Get-AzResourceLock
 4. Delete the resource lock and confirm your action.
 
 ``` posh
-Remove-AzResourceLock -LockName <Name>
+Remove-AzResourceLock -LockName <Name> -ResourceGroupName <GroupName>
 ```
 
 5. Verify the resource lock has been removed.
